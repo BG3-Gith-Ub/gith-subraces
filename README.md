@@ -1,4 +1,4 @@
 # The Froglegs Compendium of Gith Subraces
-### Current Race writeups:
+### Subrace writeups:
  - [Duthka'gith](duthkagith.md)
  - [Githvlaagi](githvlaagi.md)
