@@ -11,9 +11,9 @@ A group of Gith that thought they were escaping to the Astral Plane, but ended u
 
 ### Pick Your Poison
  - You are immune to being poisoned and poison damage. Whenever you complete a long rest, you may choose an effect from the following list that your synthesized poison may inflict. The DC for these effects is equal to 10 plus your Constitution modifier.
-    - Blinded: the target must succeed a Constitution saving throw or become blinded until their next turn.
-    - Paralyzed: the target must succeed a Constitution saving throw or become paralyzed until their next turn.
-    - Sleep: the target must succeed a Constitution saving throw or fall asleep until their next turn.
+    - Blinded: the target(s) must succeed a Constitution saving throw or become blinded until their next turn.
+    - Paralyzed: the target(s) must succeed a Constitution saving throw or become paralyzed until their next turn.
+    - Sleep: the target(s) must succeed a Constitution saving throw or fall asleep until their next turn.
 
 ### Sommelier
  - You have advantage on perception checks when identifying poisons or toxins, and may also ingest a portion of them to add half your proficiency bonus to the roll.
